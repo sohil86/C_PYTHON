@@ -7,3 +7,4 @@
 4. The "bin" folder contains the executable file.
 
 5. To run the executable on command line, go to bin folder and write ./RANDOM_NUMBER
+
