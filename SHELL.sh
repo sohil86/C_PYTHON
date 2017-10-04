@@ -18,7 +18,7 @@ cd ../..
 echo
 echo RANDOM NUMBER: $exit_status
 echo
-python PRIME.py $exit_status
+python3 PRIME.py $exit_status
 echo
 echo ==============================================
 echo
